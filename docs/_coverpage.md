@@ -9,8 +9,8 @@
 - Not build static html files
 
 
-[GitHub](https://github.com/QingWei-Li/docsify/)
-[Get Started](#quick-start)
+[GitHub](https://github.com/sohucw/hardwork)
+[Get Started](/zh-cn/)
 
 <!-- 背景图片 -->
 <!--
