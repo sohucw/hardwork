@@ -284,3 +284,8 @@ export default connect(stateToProps)(AuthorizedRoute);
 #### 总结
 React Router 4 相比 V3，变化很大，若是之前的项目使用的 V3，不建议立即升级，但 V4 比 V3 确实存在较大的优势
 
+
+#### 参考链接
+
+* [这里](http://reacttraining.cn/web/example/auth-workflow)
+
