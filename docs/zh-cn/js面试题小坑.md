@@ -5,38 +5,38 @@
 - 直接来几道面试题 看看你能否答对
 
 ```
-var foo=1;
-function bar( ) {
-  foo=10;
-  return function foo() { };
-}
-bar( );
-alert(foo);
-**********分割线***********
-var foo = 1;
-function bar() {
-    foo = 10;
-    return;
-    function foo() {}
-}
-bar();
-console.log(foo)
-**********分割线***********
-var a = 1;
-function fn() {
+    var foo=1;
+    function bar( ) {
+      foo=10;
+      return function foo() { };
+    }
+    bar( );
+    alert(foo);
+    **********分割线***********
+    var foo = 1;
+    function bar() {
+        foo = 10;
+        return;
+        function foo() {}
+    }
+    bar();
+    console.log(foo)
+    **********分割线***********
+    var a = 1;
+    function fn() {
+        console.log(a);
+        var a = 2;
+    }
+    fn()
     console.log(a);
-    var a = 2;
-}
-fn()
-console.log(a);
-**********分割线***********
-var a = 1;
-function fn(a) {
+    **********分割线***********
+    var a = 1;
+    function fn(a) {
+        console.log(a);
+        a = 2;
+    }
+    fn(a)
     console.log(a);
-    a = 2;
-}
-fn(a)
-console.log(a);
 
 ```
 如果你能够都答对可以忽略本文的阅读.免得浪费时间

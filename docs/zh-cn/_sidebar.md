@@ -13,5 +13,6 @@
   - [v3和v4的比较](zh-cn/react-router/v3VSv4.md)
 - protobuf 协议  
 - webpack相关
+  - [library,libraryTarget,externals](zh-cn/webpack/Webpack中library,libraryTarget,externals的区别及作用.md)
 - 前端性能相关 
   - [Performance — 前端性能监控利器](/zh-cn/performance/performance.md)
