@@ -1,5 +1,5 @@
 >经常我们会希望通过script方式引入库，如CDN方式的jquery，
-我们在使用的时候依旧用require方式，但是却不希望webpack将他编译到文件中。 如下
+我们在使用的时候依旧用require方式，但是却不希望webpack将他编译到文件中。 如下.
 
 ```
 <script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>

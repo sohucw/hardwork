@@ -11,6 +11,8 @@
 - react-router相关
   - [react-router4 api](zh-cn/react-router/v4.md)
   - [v3和v4的比较](zh-cn/react-router/v3VSv4.md)
+- 状态管理（State Management）
+  - [为什么需要状态管理](zh-cn/state/stateManagement.md)
 - protobuf 协议  
 - webpack相关
   - [library,libraryTarget,externals](zh-cn/webpack/Webpack中library,libraryTarget,externals的区别及作用.md)
