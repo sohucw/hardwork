@@ -6,6 +6,9 @@
 - git&tcp-ip相关
   - [常用命令](zh-cn/git.md)
   - [TCP-IP协议关系图](zh-cn/tcp-ip.md)
+- webpack相关
+  - [library,libraryTarget,externals](zh-cn/webpack/Webpack中library,libraryTarget,externals的区别及作用.md)
+  - [tree shaking](zh-cn/webpack/webpack2(tree shaking).md)
 - 其他
   - [常用命令](zh-cn/git.md)
 - react-router相关
@@ -14,7 +17,5 @@
 - 状态管理（State Management）
   - [为什么需要状态管理](zh-cn/state/stateManagement.md)
 - protobuf 协议  
-- webpack相关
-  - [library,libraryTarget,externals](zh-cn/webpack/Webpack中library,libraryTarget,externals的区别及作用.md)
 - 前端性能相关 
   - [Performance — 前端性能监控利器](/zh-cn/performance/performance.md)
