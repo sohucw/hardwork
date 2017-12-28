@@ -10,7 +10,8 @@
   - [library,libraryTarget,externals](zh-cn/webpack/Webpack中library,libraryTarget,externals的区别及作用.md)
   - [tree shaking](zh-cn/webpack/webpack2(tree shaking).md)
 - 其他
-  - [常用命令](zh-cn/git.md)
+  - [git常用命令](zh-cn/git.md)
+  - [js调起app](zh-cn/other/js调起app.md)
 - react-router相关
   - [react-router4 api](zh-cn/react-router/v4.md)
   - [v3和v4的比较](zh-cn/react-router/v3VSv4.md)
